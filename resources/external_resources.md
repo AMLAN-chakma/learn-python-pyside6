@@ -4,14 +4,14 @@ Helpful links for learning more. These are optional but can help you understand 
 
 ## FreeCodeCamp (Recommended)
 
-FreeCodeCamp offers free, interactive coding courses. We recommend completing their Python course before or alongside this tutorial.
+FreeCodeCamp offers free, interactive coding courses. We recommend completing their Media Catalogue workshop before this tutorial.
 
-### Python Course
-[FreeCodeCamp Python Curriculum](https://www.freecodecamp.org/learn/python-v9/)
+### Media Catalogue Workshop
+[FreeCodeCamp Media Catalogue Workshop](https://www.freecodecamp.org/learn/python-v9/workshop-media-catalogue/step-1)
 
 | Feature | Description |
 |---------|-------------|
-| Full Python course | Covers basics through OOP |
+| Builds the same project | You'll understand the code before adding tests and GUI |
 | Great for beginners | Step by step lessons |
 | Interactive exercises | Instant feedback |
 | Completely free | No payment required |

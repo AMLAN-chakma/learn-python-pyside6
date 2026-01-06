@@ -249,11 +249,11 @@ This opens the Media Catalogue application where you can:
 
 ## Recommended Learning Path
 
-### Option A: Follow Along with FreeCodeCamp (Recommended)
+### Option A: Complete the FreeCodeCamp Workshop First (Recommended)
 
-1. Complete the [FreeCodeCamp Python Course](https://www.freecodecamp.org/learn/python-v9/) first
-2. Then go through our lessons to learn testing and GUI development
-3. Our lessons build on what FreeCodeCamp teaches
+1. Complete the [FreeCodeCamp Media Catalogue Workshop](https://www.freecodecamp.org/learn/python-v9/workshop-media-catalogue/step-1) first
+2. This builds the initial Media Catalogue code so you understand how it works
+3. Then come back here to learn testing and GUI development
 
 ### Option B: Learn Everything Here
 
