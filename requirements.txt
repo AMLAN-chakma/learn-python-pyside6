@@ -1,0 +1,14 @@
+# PySide6 Tutorial - Dependencies
+
+# GUI Framework
+PySide6>=6.5.0
+
+# Testing
+pytest>=7.0.0
+
+# Jupyter Notebooks (for lessons)
+jupyter>=1.0.0
+notebook>=7.0.0
+
+# Optional: For running Qt in Jupyter notebooks
+ipykernel>=6.0.0
