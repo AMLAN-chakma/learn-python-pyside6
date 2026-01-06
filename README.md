@@ -210,15 +210,25 @@ This opens the lessons in your web browser. Start with `00_introduction.ipynb`.
 | 08     | `08_pyside6_intro.py`    | PySide6 Intro       | Your first window with buttons and signals |
 | 09     | `09_building_gui.py`     | Building the GUI    | Forms, tables, and validation dialogs      |
 | 10     | `10_putting_together.py` | Putting It Together | The complete Media Catalogue interface     |
-| 11     | `11_web_browser.py`      | Web Browser         | Embedding a web browser in your app        |
 
 To run the GUI lessons:
 ```bash
 python lessons/08_pyside6_intro.py
 python lessons/09_building_gui.py
 python lessons/10_putting_together.py
+```
+
+### Bonus: Embedding Web Content
+
+| Lesson | File                | Topic       | What You'll Learn                |
+|--------|---------------------|-------------|----------------------------------|
+| 11     | `11_web_browser.py` | Web Browser | Embed web pages in a PySide6 app |
+
+```bash
 python lessons/11_web_browser.py
 ```
+
+**Note:** Some sites may not load due to security settings. This is normal.
 
 ## Try the Finished Application
 

@@ -1,12 +1,25 @@
 """
 ================================================================================
-LESSON 11: EMBEDDING A WEB BROWSER
+LESSON 11: EMBEDDING A WEB BROWSER (BONUS)
 ================================================================================
 
 Load websites inside your PySide6 app using QWebEngineView.
 
+This is a bonus lesson showing how to embed web content in desktop apps.
+
 Run this file:
     python lessons/11_web_browser.py
+
+================================================================================
+WHY SOME SITES MAY NOT LOAD
+================================================================================
+
+Some websites may show a blank page or error when embedded. This is not a bug.
+
+Websites can set security headers that block embedding inside other apps.
+This is a security feature to prevent attacks like clickjacking.
+
+If a site doesn't load, try a different one.
 
 ================================================================================
 IMPORTANT: QWEBENGINEVIEW SETUP
